@@ -1,0 +1,26 @@
+.app-container {
+  margin-top: 30px;
+}
+
+.add-contact-form {
+  margin-bottom: 30px;
+}
+
+.contact-table {
+  margin-top: 30px;
+}
+
+.contact-table th {
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.contact-table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.delete-button {
+  width: 100%;
+}
